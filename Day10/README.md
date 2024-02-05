@@ -1,4 +1,4 @@
-`# Python-DataScience-90Days-Challenge - Day10
+# Python-DataScience-90Days-Challenge - Day10
 
 Day 10 of the Python Data Science 90 Days Challenge is all about dictionaries. 
 
@@ -27,7 +27,7 @@ No Duplicates
 
 #### Dictionary methods
 
-Method	 Description
+Method	     Description
 
 `clear()`	Removes all the elements from the dictionary
 
