@@ -1,6 +1,6 @@
 # Python-DataScience-90Days-Challenge
-## This is my learning journey of Python Data Science in 90 days.
-## Day-1 of learning
+#### This is my learning journey of Python Data Science in 90 days.
+
 ``` Introduction to Data Science ```
 
 ``` Data is everything these days , (structured or unstructured data) Data Scientist's job is to make this Data useful to the company. ```
