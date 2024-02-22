@@ -1,6 +1,6 @@
-# Python-DataScience-90Days-Challenge - Day16
+# Python-DataScience-90Days-Challenge - Day17
 
-Day 16 of the Python Data Science 90 Days Challenge is all about OOPS. Object Oriented Programming in Python. Today we will be learning how to create a class.
+Day 16 of the Python Data Science 90 Days Challenge is all about OOPS. Object Oriented Programming in Python. Today we will be learning about Inheritance.
 
 #### Python Inheritance:
 Inheritance is a fundamental concept in Object Oriented Programming (OOP) that allows us to create new classes based on existing ones.
