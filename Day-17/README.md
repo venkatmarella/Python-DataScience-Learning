@@ -1,6 +1,6 @@
-# Python-DataScience-90Days-Challenge - Day16
+# Python-DataScience-90Days-Challenge - Day17
 
-Day 16 of the Python Data Science 90 Days Challenge is all about OOPS. Object Oriented Programming in Python. Today we will be learning how to create a Polymorphism.
+Day 17 of the Python Data Science 90 Days Challenge is all about OOPS. Object Oriented Programming in Python. Today we will be learning how to create a Polymorphism.
 
 #### Python Polymorphism:
 Polymorphism in python  is a way to create classes that can be used as base class for other classes. It allows us Method Overloading and Overriding in Python.
