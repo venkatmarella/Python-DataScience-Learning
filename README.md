@@ -1,4 +1,4 @@
-# Python-DataScience-90Days-Challenge
+# Python-DataScience-Learning
 #### This is my learning journey of Python Data Science in 90 days.
 
 ``` Introduction to Data Science ```
